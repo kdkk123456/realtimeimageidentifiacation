@@ -1,0 +1,40 @@
+body {
+    background-image: url("background.jpg");
+    text-align: center;
+}
+.header {
+    width: 100%;
+    margin: 0cm;
+    box-shadow: 5px 5px 5px purple;
+    font-size: 25px;
+    padding: 10px;
+}
+#subheading {
+    background-color: springgreen;
+    float: none;
+    font-size: 22px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px plum;
+    border-radius: 10px;
+}
+#objects {
+    font-size: 20px;
+}
+.buttons{
+    font-size: 22px;
+    box-shadow: 5px 5px 10px blue;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    background-color: mediumaquamarine;
+    width: 100%;
+    line-height: 2;
+    color: teal;
+    font-size: 20px;
+}
+canvas{
+    border: 5px solid black;
+    margin-top: 120px;
+    box-shadow: 5px 5px 10px rgb(77, 67, 77);
+}
